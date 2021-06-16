@@ -1,4 +1,4 @@
-![Ignite - Bootcamp - Trilha Node.js]("https://github.com/henriqueritter/Bootcamp-Ignite-Node/blob/main/cover-node.js.png")
+<img src="https://github.com/henriqueritter/Bootcamp-Ignite-Node/blob/main/cover-node.js.png" alt="Ignite Trilha Node.js"></img>
 
 ## _Todos_ - Gerenciador de tarefas
 
